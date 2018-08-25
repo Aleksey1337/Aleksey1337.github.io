@@ -32,3 +32,5 @@
 [Урок-Практика](Aleksey1337.github.io/course-site/src/index.html "Верстка шапки") - Подготовка файлов. Верстка шапки сайта
 
 [Урок 14](Aleksey1337.github.io/lesson_14/index.html "Шрифты") - Подключение шрифтов
+
+[Урок-Практика](Aleksey1337.github.io/course-site-1/src/index.html "Первый экран") - Подключение шрифтов. Верстка первого экрана
